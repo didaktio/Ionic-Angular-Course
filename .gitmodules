@@ -13,3 +13,18 @@
 	url = git@github.com:didaktio/kubernetes-app.git
 	branch = master
 	update = rebase
+[submodule "basics"]
+	path = basics
+	url = git@github.com:didaktio/iac-basics.git
+	branch = master
+	update = rebase
+[submodule "directives"]
+	path = directives
+	url = git@github.com:didaktio/iac-directives.git
+	branch = master
+	update = rebase
+[submodule "reminder-app"]
+	path = reminder-app
+	url = git@github.com:didaktio/iac-reminders.git
+	branch = master
+	update = rebase
