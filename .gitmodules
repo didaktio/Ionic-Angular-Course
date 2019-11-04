@@ -2,11 +2,14 @@
 	path = section-2-3-4-5-6
 	url = git@github.com:didaktio/section-2-3-4-5-6.git
 	branch = master
+	update = rebase
 [submodule "the-todo-app"]
 	path = the-todo-app
 	url = git@github.com:didaktio/the-todo-app
 	branch = master
+	update = rebase
 [submodule "kubernetes-app"]
 	path = kubernetes-app
 	url = git@github.com:didaktio/kubernetes-app.git
 	branch = master
+	update = rebase
