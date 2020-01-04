@@ -1,30 +1,30 @@
 [submodule "section-2-3-4-5-6"]
 	path = section-2-3-4-5-6
-	url = git@github.com:didaktio/section-2-3-4-5-6.git
+	url = https://github.com/didaktio/section-2-3-4-5-6.git
 	branch = master
 	update = rebase
 [submodule "the-todo-app"]
 	path = the-todo-app
-	url = git@github.com:didaktio/the-todo-app
+	url = https://github.com/didaktio/the-todo-app.git
 	branch = master
 	update = rebase
 [submodule "kubernetes-app"]
 	path = kubernetes-app
-	url = git@github.com:didaktio/kubernetes-app.git
+	url = https://github.com/didaktio/kubernetes-app.git
 	branch = master
 	update = rebase
 [submodule "basics"]
 	path = basics
-	url = git@github.com:didaktio/iac-basics.git
+	url = https://github.com/didaktio/iac-basics.git
 	branch = master
 	update = rebase
 [submodule "directives"]
 	path = directives
-	url = git@github.com:didaktio/iac-directives.git
+	url = https://github.com/didaktio/iac-directives.git
 	branch = master
 	update = rebase
 [submodule "reminder-app"]
 	path = reminder-app
-	url = git@github.com:didaktio/iac-reminders.git
+	url = https://github.com/didaktio/iac-reminders.git
 	branch = master
 	update = rebase
