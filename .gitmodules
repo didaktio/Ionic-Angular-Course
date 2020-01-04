@@ -25,6 +25,6 @@
 	update = rebase
 [submodule "reminder-app"]
 	path = reminder-app
-	url = https://github.com/didaktio/iac-reminders.git
+	url = https://github.com/didaktio/reminders-app.git
 	branch = master
 	update = rebase
