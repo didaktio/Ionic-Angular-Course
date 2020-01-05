@@ -17,7 +17,7 @@ This course is futureproof, no-nonsense, zero-to-one, and PRACTICAL.
 ### Option 2: Master Repo (this)
 #### Method A: Clone
 1) Run the following command to clone the repo and recursively install the submodules:
-    `git clone --recrusive https://github.com/didaktio/Ionic-Angular-Course.git`
+    `git clone --recursive https://github.com/didaktio/Ionic-Angular-Course.git`
 2) In each of the projects or just the ones you want to use, run `npm install` from the root and if necessary, from inside the **functions** directory.
 
 #### Method A: Download
