@@ -1,8 +1,0 @@
-{
-    ///...
-   "dependencies": {
-     ///...
-     "todo-utils": "file:local-libs/todo-utils/todo-utils-1.0.0.tgz",
-   }
- }
- 
